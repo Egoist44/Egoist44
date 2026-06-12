@@ -46,7 +46,7 @@ Mi objetivo es convertirme en un profesional completo de ciberseguridad capaz de
   Administración se## 💼 Experiencia Profesional
 
 ## 📚 Formación y Certificaciones
-
+- IT Essentials-Cisco Certified Network Associate -ITLA
 - Técnico Superior en Ciberseguridad – TEP PUCMM  
 - Ingeniería en Ciberseguridad – UNICARIBE  
 - Certified in Cybersecurity (ISC²)  
