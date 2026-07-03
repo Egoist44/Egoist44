@@ -60,7 +60,7 @@ Mi objetivo es convertirme en un profesional completo de ciberseguridad capaz de
 - Hardening de Sistemas Windows/Linux  
 - Redes y Troubleshooting (CCNA)  
 - Operaciones SOC y Respuesta a Incidentes (NIST)  
-- Virtualización (VMware, VirtualBox)  
+- Virtualización (VMware, VirtualBox,Hyperv)  
 - Firewalls, VPN y Seguridad de Redes
 
 ---
