@@ -7,7 +7,7 @@
 
 # ¡Hola! Soy Virgilio Antonio Frías (Egoist44)
 
-**Analista de Ciberseguridad en formación | Blue Team & Red Team | Ethical Hacking | .**
+**Analista de Ciberseguridad en formación | Blue Team | Ethical Hacking | .**
 
 Soy estudiante de **Ingeniería en Ciberseguridad** en la Universidad del Caribe (UNICARIBE) y **Técnico Superior en Ciberseguridad** en TEP PUCMM. 
 
