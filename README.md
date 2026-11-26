@@ -28,7 +28,7 @@ Mi objetivo es convertirme en un profesional completo de ciberseguridad capaz de
 
 ## 🚀 Proyectos Destacados
 
-- **[Laboratorio-de-Ciberseguridad](https://github.com/Egoist44/Laboratorio-de-Ciberseguridad)**  
+- **[Laboratorio-de-Ciberseguridad]([https://github.com/Egoist44/Laboratorio-de-Ciberseguridad](https://github.com/Egoist44/Proyecto-de-Ciberseguridad-Laboratorio-de-Active-Directory-SIEM-y-Hardening))**  
   Mi repositorio principal donde desarrollo herramientas prácticas:  
   • Escáner de puertos personalizado en Python (multithreading + logging)  
   • Simulador educativo de ataque DDoS  
